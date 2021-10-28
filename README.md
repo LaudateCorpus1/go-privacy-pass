@@ -1,4 +1,8 @@
-# Challenge Bypass Server
+# Go Privacy Pass
+
+This is a WIP fork of the [Challenge Bypass Server](https://github.com/privacypass/challenge-bypass-server) that also includes a privacy pass client library.
+
+# Original Challenge Bypass Server ReadMe
 
 **The Privacy Pass protocol is now being standardised by the
 [privacypass](https://datatracker.ietf.org/wg/privacypass/about/) IETF
